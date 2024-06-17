@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    border: 5px solid black;
+    background-color: white;
+
+}
+body{
+    background-color: darkslategray;
+}
+img{
+    align-items: center;
+}
+h2{
+    color: white;
+}
